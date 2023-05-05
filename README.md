@@ -1,2 +1,2 @@
-# my_github_projects
-mgp
+# My Portfolio
+myp
