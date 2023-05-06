@@ -40,12 +40,13 @@ color: blue;
     color: darkorange;
     
 }
-#lang{
+.lang{
 color: red;
 display: grid;
 
 
 }
+
 li{
     display: inline;
     padding: 40px;
@@ -54,4 +55,17 @@ li{
 table{
     padding-top: 20;
     color: red;
+}
+.me{
+    font-display: 50px;
+    font-weight: 200px;
+    color: darkorange;
+    font-family: serif;
+}
+.links{
+    padding:40px ;
+}
+.h11{
+text-align: center;
+margin-right: 600px;
 }
