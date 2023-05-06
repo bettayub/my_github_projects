@@ -40,12 +40,18 @@ color: blue;
     color: darkorange;
     
 }
-.lang{
+#lang{
 color: red;
+display: grid;
+
 
 }
 li{
     display: inline;
     padding: 40px;
     font-size: 35px;
+}
+table{
+    padding-top: 20;
+    color: red;
 }
