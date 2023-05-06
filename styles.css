@@ -44,7 +44,8 @@ color: blue;
 color: red;
 
 }
-.homelist{
+li{
+    display: inline;
     padding: 40px;
-    display: inline-block;
+    font-size: 35px;
 }
