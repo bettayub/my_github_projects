@@ -39,7 +39,12 @@ color: blue;
     font-size: 200px;
     color: darkorange;
     
-}.lang{
+}
+.lang{
 color: red;
 
+}
+.homelist{
+    padding: 40px;
+    display: inline-block;
 }
