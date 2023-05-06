@@ -1,0 +1,44 @@
+
+.image{
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    height: 700px;
+
+}
+.row{
+    background-color: aqua;
+    background-image: url("image/yubs.jpg");
+    background-repeat: no-repeat;
+    background-size: cover ;
+    height: 800px;
+    text-align: center;
+    position: relative;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin;;
+}
+.h1 {
+    position: absolute;
+    top: 50%;
+    left: 400px;
+    top: 300px;
+    font-size: 100px;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.with {
+    color: red;
+    
+}
+.code{
+color: black;
+}
+#WITH{
+    size: 100px;
+}
