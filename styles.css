@@ -58,12 +58,12 @@ li{
 }
 table{
     padding-top: 20;
-    color: red;
+    color: black;
 }
 .me{
     font-display: 50px;
     font-weight: 200px;
-    color: darkorange;
+    color: yellowgreen;
     font-family: serif;
 }
 .links{
@@ -76,4 +76,24 @@ margin-right: 600px;
 .column{
     float: left;
     width: 50%;
+}
+.u{
+    font-display: 50px;
+    font-weight: 200px;
+    color: yellowgreen;
+    font-family: serif;
+}
+.form{
+    text-align: center;
+    margin-top: 100px;
+    width: 100%;
+    font-size:x-large;
+}
+input{
+    width: 100%;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    
+
 }
