@@ -1,16 +1,9 @@
 
 .image{
-    background-size: cover;
-    background-repeat: no-repeat;
-    width: 100%;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    text-align: center;
-    height: 700px;
+
 
 }
 .row{
-    background-color: gold;
     background-image: url("image/yubs.jpg");
     background-repeat: no-repeat;
     background-size: cover ;
@@ -19,6 +12,8 @@
     position: relative;
     margin-top: 60px;
     margin-bottom: 60px;
+    border-radius: 20%;
+    ;
 }
 .h1 {
     position: absolute;
@@ -31,13 +26,17 @@
     font-style: italic;
 }
 
-.with {
+#with {
     color: red;
+    font-size: 150px;
     
 }
 .code{
-color: black;
+color: blue;
 }
-#WITH{
-    size: 100px;
+#ayub{
+    font-family: fantasy;
+    font-size: 200px;
+    color: darkorange;
+    
 }
