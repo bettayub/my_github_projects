@@ -76,6 +76,8 @@ margin-right: 600px;
 .column{
     float: left;
     width: 50%;
+    margin-bottom: 500px;
+    
 }
 .u{
     font-display: 50px;
@@ -85,9 +87,9 @@ margin-right: 600px;
 }
 .form{
     text-align: center;
-    margin-top: 100px;
+    margin-top: -45px;
     width: 100%;
-    font-size:x-large;
+    font-size:x-large; 
 }
 input{
     width: 100%;
@@ -96,4 +98,17 @@ input{
     margin-bottom: 5px;
     
 
+}
+.PP{
+font-size: x-large;
+border-radius: 50%;
+color: dodgerblue;
+
+}#wc{
+    width:50%;
+    height:500px;
+    object-fit: fill;
+    border-radius: 50%;
+    
+    
 }
