@@ -55,6 +55,14 @@ li{
     display: inline;
     padding: 100px;
     font-size: 35px;
+    margin-left: 200px;
+    
+    
+    
+}
+.nav-bar {
+    background-color: aliceblue;
+    color: aqua;
 }
 table{
     padding-top: 20;
@@ -132,3 +140,31 @@ color: dodgerblue;
 }
     
     
+.aboutrow {
+    height: 500px;
+    background-color: antiquewhite;
+    margin-top: 800px;
+    text-align: center;
+    
+}
+
+.aboutcolumn {
+    float: left;
+    width: 30%;
+    text-align: center;
+    background-color: rgb(184, 212, 212);
+    height: 300px;
+    box-shadow:inset;
+    border-radius: 15px;
+    margin-left: 50px;
+}
+#abouthead _{
+    text-align: center;
+    font-size: 20px;
+    width: 100%;
+}
+.aboutimg {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
