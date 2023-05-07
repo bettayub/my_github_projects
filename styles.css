@@ -53,7 +53,7 @@ display: grid;
 
 li{
     display: inline;
-    padding: 40px;
+    padding: 100px;
     font-size: 35px;
 }
 table{
@@ -75,10 +75,34 @@ margin-right: 600px;
 }
 .column{
     float: left;
+    width: 40%;
+    font-size: large;
+    
+}
+.column2{
+
+    width: 60%;
+    float: right;
+    height: 650px;
+}
+
+.bbb{
+    width: 100%;
+    border-radius: 40px;
+}
+.row{
+margin-bottom: 300px;
+
+
+
+}
+.row2 {
+
+    float: left;
     width: 50%;
-    margin-bottom: 500px;
-    
-    
+    text-align: center;
+    margin-left: 400px;
+   
 }
 .u{
     font-display: 50px;
@@ -88,7 +112,7 @@ margin-right: 600px;
 }
 .form{
     text-align: center;
-   
+    margin-top: -45px;
     width: 100%;
     font-size:x-large; 
 }
@@ -105,11 +129,6 @@ font-size: x-large;
 border-radius: 50%;
 color: dodgerblue;
 
-}#wc{
-    width: 50%;
-    height:500px;
-    
-    
-}.gh{
-    color: red;
 }
+    
+    
