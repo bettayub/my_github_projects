@@ -25,7 +25,7 @@ git push origin master
 
 ![sketch portfolio](https://user-images.githubusercontent.com/132656282/236682011-b33858c6-6a6d-44d0-b8c3-706edb9ec37b.jpg)
 
-## Licence
+## License
 MIT License
 
 Copyright (c) 2023 Ayub Bett
